@@ -1,2 +1,2 @@
 # tona
-CV Tona
+CV Tona Dev Jr
